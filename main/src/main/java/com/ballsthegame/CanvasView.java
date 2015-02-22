@@ -9,10 +9,7 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
-import android.app.Fragment;
 
-import java.sql.Time;
-import java.util.Date;
 import java.util.Vector;
 
 public class CanvasView extends View {
