@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="BlueButton" >
+        <item name="android:background">#0066FF</item>
+        <item name="android:height">50dp</item>
+
+    </style>
+
+    <style name="RedButton" >
+        <item name="android:background">#FF0040</item>
+        <item name="android:height">50dp</item>
+    </style>
+
+
+</resources>

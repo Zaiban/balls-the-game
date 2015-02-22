@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BallsTheGame</string>
+    <string name="mainmenu_title1">Balls</string>
+    <string name="mainmenu_title2">The Game</string>
+    <string name="paused_title2">PAUSED</string>
+    <string name="guide_title2">GAME GUIDE</string>
+    <string name="mainmenu_newgame">New Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="debug_text">debug</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pause_returngame">Continue</string>
+    <string name="button_returnmainmenu">Main Menu</string>
+    <string name="mainmenu_exitgame">Quit Game</string>
+    <string name="mainmenu_guide">Guide</string>
+    <string name="gameover_title2">GOAL REACHED</string>
+    <string name="str_timeElapsed">time elapsed</string>
+    <string name="leopard_alt">Leopard</string>
+    <string name="guide_text">
+        Welcome to our fabulous Balls game!
+        The purpose of the game is to direct the player ball to the goal box.
+        \n\nThe player ball will first appear in the upper left corner of the maze.
+        The goal box will appear at a random location in the maze.
+        \n\nYou can pause the game by pressing the back button of your device.
+        Have fun playing!
+    </string>
+
+</resources>
